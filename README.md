@@ -14,8 +14,8 @@ Tato prezentace se zabývá kreslením/routováním v KiCADu, konkrétně těmit
 3. Mikropásková vedení
 4. Koplanární vedení
 
-The presentation contains almost no text (for a good reason). The text will be supplied later in spoken form when the recorded footage from LinuxDays CZ 2019 is released. Meanwhile, it will placed here in the form of live stream:
-https://www.youtube.com/watch?v=vl9W5F_ZBFg
+The presentation contains almost no text (for a good reason). For an explanation of the content of the presentation, please see this recorded video from LinuxDays CZ 2019 (only in Czech, sorry).
+https://www.youtube.com/watch?v=UJ9W9x1_wUQ
 
-Prezentace neobsahuje téměř žádný text (z dobrých důvodů). Text bude dodán mluvenou formou, jakmile bude zveřejněn záznam z konference LinuxDays CZ 2019. Mezitím bude umístěn zde v podobě živého vysílání:
-https://www.youtube.com/watch?v=vl9W5F_ZBFg
+Prezentace neobsahuje téměř žádný text (z dobrých důvodů). Pro vysvětlení obsahu se prosím podívejte na záznam mé přednášky LinuxDays CZ 2019.
+https://www.youtube.com/watch?v=UJ9W9x1_wUQ
